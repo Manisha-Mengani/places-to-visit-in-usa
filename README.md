@@ -1,9 +1,5 @@
 # Places to visit in USA
 
-## Links
-- [30 Best Places in USA](https://travel.usnews.com/rankings/best-usa-vacations/ "Click here to visit the web page")
-- [Other Best Places to visit in USA](https://www.bestproducts.com/fun-things-to-do/g2483/best-places-to-experience-and-visit-in-the-usa/ "Click here for more places")
-
 ## List of top 5 Best Places:
 1. Grand Canyon
 1. Yosemite
@@ -27,3 +23,8 @@ This section here provides a detailed information about the place.
 - Horseshoe Bend:
 
  ![Horseshoe bend](https://github.com/Manisha-Mengani/places-to-visit-in-usa/blob/master/horseshoe-bend.jpg)
+
+## References
+- [30 Best Places in USA](https://travel.usnews.com/rankings/best-usa-vacations/ "Click here to visit the web page")
+- [Other Best Places to visit in USA](https://www.bestproducts.com/fun-things-to-do/g2483/best-places-to-experience-and-visit-in-the-usa/ "Click here for more places")
+
