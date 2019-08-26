@@ -8,7 +8,7 @@
 1. Glacier National Park
 
 ## About:
-This section here provides a detailed information about the place.
+Here in this page we will discuss about the place GRAND CANYON
 ## Grand Canyon:
 - Grand Canyon National Park, in Arizona, is home to much of the immense Grand Canyon, with its layered bands of red rock revealing    millions of years of geological history.
 - Viewpoints include Mather Point, Yavapai Observation Station and architect Mary Colter’s Lookout Studio and her Desert View Watchtower.
