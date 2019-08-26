@@ -22,7 +22,7 @@ This section here provides a detailed information about the place.
 
 - Horseshoe Bend:
 
- ![Horseshoe bend](https://github.com/Manisha-Mengani/places-to-visit-in-usa/blob/master/horseshoe-bend.jpg)
+ ![Horseshoe bend](https://upload.wikimedia.org/wikipedia/commons/a/a1/Horseshoe_Bend_HDR.jpg)
 
 ## References
 - [30 Best Places in USA](https://travel.usnews.com/rankings/best-usa-vacations/ "Click here to visit the web page")
