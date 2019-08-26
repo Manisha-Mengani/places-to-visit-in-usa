@@ -18,5 +18,12 @@ This section here provides a detailed information about the place.
 - Viewpoints include Mather Point, Yavapai Observation Station and architect Mary Colter’s Lookout Studio and her Desert View Watchtower.
 - Lipan Point, with wide views of the canyon and Colorado River, is a popular, especially at sunrise and sunset.
 
-## Images
-![Grand Canyon](https://github.com/Manisha-Mengani/places-to-visit-in-usa/blob/master/GrandCanyon.jpg)
+
+## Images of Grand Canyon:
+- Grand Canyon National Park
+
+ ![Grand Canyon](https://github.com/Manisha-Mengani/places-to-visit-in-usa/blob/master/GrandCanyon.jpg)
+
+- Horseshoe Bend:
+
+ ![Horseshoe bend](https://github.com/Manisha-Mengani/places-to-visit-in-usa/blob/master/horseshoe-bend.jpg)
