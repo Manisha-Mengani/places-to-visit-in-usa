@@ -1,4 +1,4 @@
-# Places to visit in USA
+#  PLACES TO VISIT IN USA
 
 ## List of top 5 Best Places:
 1. Grand Canyon
@@ -30,3 +30,4 @@ Here in this page we will discuss about the place GRAND CANYON
 - [Grand Canyon National Park](https://www.nps.gov/grca/index.htm "its 100 years old")
 
 
+#### Thankyou!
