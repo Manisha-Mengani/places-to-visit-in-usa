@@ -24,10 +24,10 @@ Here in this page we will discuss about the place GRAND CANYON
 
  ![Horseshoe bend](https://upload.wikimedia.org/wikipedia/commons/2/2a/USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg "Horseshoe Bend")
  
- ## Yosemite :
+ ## Yosemite:
  *  Yosemite National Park is best known for its waterfalls, but within its nearly 1,200 square miles, you can find deep valleys, grand meadows, ancient giant sequoias, a vast wilderness area, and much more.
  
- ## Images of Yosemite:
+ ## Yosemite Images:
  - Yosemite National Park
  
  ![Yosemite National Park](http://clipart-library.com/images/kcKo6Kbxi.jpg)
